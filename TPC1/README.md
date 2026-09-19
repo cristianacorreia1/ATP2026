@@ -14,3 +14,7 @@ O trabalho consistiu na resolução do nível 10 do jogo Maze presente no Blockl
   <img src="Nível 10 Maze.png" width="300">
   <img src="imagem barco.png" width="300">
 </p>
+
+##Resultados
+###Maze
+[Link para a minha resolução do Maze](https://blockly.games/maze?lang=en&level=10&&skin=0)
