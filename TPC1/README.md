@@ -17,8 +17,9 @@ O trabalho consistiu na resolução do nível 10 do jogo Maze presente no Blockl
 </p>
 
 ## Resultados
-### Maze
 As atividades propostas foram concluídas utilizando os blocos de programação disponibilizados pelo Blockly Games.
+
+### Maze
 
   <img src="Resolução.png" width="300">
 
