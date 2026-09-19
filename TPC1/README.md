@@ -33,6 +33,7 @@ Esta foi a sequência alcançada: <img src="Resolução barco.png">
  [O Link para a minha reprodução da imagem proposta](https://blockly.games/turtle?lang=en&level=10)
 
 O desenho feito pelo código alcançado: 
+
 <img src="BARCO.png" width="300">
 
 
