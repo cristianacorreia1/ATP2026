@@ -9,9 +9,7 @@
 </p>
 
 ##Resumo
-**O trabalho consistiu:**
--Na resolução do nível 10 do jogo Maze presente no Blockly Games
--Na reprodução de um desenho fornecido pelo professor utilizando o jogo Turtle da mesma plataforma 
+O trabalho consistiu na resolução do nível 10 do jogo Maze presente no Blockly Games e na reprodução de um desenho fornecido pelo professor utilizando o jogo Turtle da mesma plataforma 
 <p align="center">
   <img src="Nível 10 Maze.png" width="300">
   <img src="imagem barco.png" width="300">
