@@ -21,7 +21,7 @@ As atividades propostas foram concluídas utilizando os blocos de programação 
 
 ### Maze
 Com os blocos de programação foi possível chegar a este resultado, que concluí o desafio proposto (percorrer o caminho amarelo até ao destino pretendido).
-
+<p align="center">
   <img src="Resolução.png" width="300">
 
  [O Link para a minha resolução do nível 10 do Maze](https://blockly.games/maze?lang=en&level=10&&skin=0)
@@ -33,7 +33,7 @@ Esta foi a sequência alcançada: <img src="Resolução barco.png">
  [O Link para a minha reprodução da imagem proposta](https://blockly.games/turtle?lang=en&level=10)
 
 O desenho feito pelo código alcançado: 
-
+<p align="center">
 <img src="BARCO.png" width="300">
 
 
