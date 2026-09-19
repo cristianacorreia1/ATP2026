@@ -3,4 +3,6 @@
 ##Autor:
 Nome:Cristiana Sofia Almeida Correia 
 ID: A114465
-![Fotografia](foto.png)
+<p align="center">
+  <img src="foto.png" width="150">
+</p>
