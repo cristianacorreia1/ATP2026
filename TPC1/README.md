@@ -26,4 +26,4 @@ As atividades propostas foram concluídas utilizando os blocos de programação 
  [Link para a minha resolução do Maze](https://blockly.games/maze?lang=en&level=10&&skin=0)
 ### Bloco
 
-<img src="Resolução barco.png" width="300">
+<img src="Resolução barco.png">
