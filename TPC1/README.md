@@ -20,7 +20,7 @@ O trabalho consistiu na resolução do nível 10 do jogo Maze presente no Blockl
 As atividades propostas foram concluídas utilizando os blocos de programação disponibilizados pelo Blockly Games.
 
 ### Maze
-Com os blocos de programação foi possível chegar a este resultado, que concluí o desafio proposto (percorrer o caminho amarelo até ao destino preciso).
+Com os blocos de programação foi possível chegar a este resultado, que concluí o desafio proposto (percorrer o caminho amarelo até ao destino pretendido).
 
   <img src="Resolução.png" width="300">
 
