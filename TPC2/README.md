@@ -14,7 +14,12 @@ O objetivo deste trabalho é criar em Python, um jogo em que é preciso descobri
 
 O jogo pode funcionar de duas formas:
 
-O computador escolhe o número e o utilizador tenta adivinhá-lo.
-O utilizador escolhe o número e o computador tenta adivinhá-lo.
+- O computador escolhe o número e o utilizador tenta adivinhá-lo.
+- O utilizador escolhe o número e o computador tenta adivinhá-lo.
 
 Quando o número for descoberto, o programa terminar e indica quantas tentativas foram necessárias para chegar a ele.
+
+##Resultados
+O programa desenvolvido em Python pode ser consultado no seguinte ficheiro:
+
+- [TPC2.py](TPC2.py)
