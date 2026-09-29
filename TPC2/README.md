@@ -19,7 +19,7 @@ O jogo pode funcionar de duas formas:
 
 Quando o número for descoberto, o programa terminar e indica quantas tentativas foram necessárias para chegar a ele.
 
-##Resultados
+## Resultados
 O programa desenvolvido em Python pode ser consultado no seguinte ficheiro:
 
 - [TPC2.py](TPC2.py)
