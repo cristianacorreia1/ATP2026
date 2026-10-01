@@ -17,30 +17,25 @@ def utilizador_pensa():
     maior=100
     menor=0
     tentativas=0
-    while True:
-         tentativa=(maior+menor)//2
-         tentativas=tentativas+1
-         print("o seu número é:", tentativa)
-         resposta=input("O seu número é maior, menor ou acertei?")
-         if resposta=="maior":
-            menor=tentativa+1
-         elif resposta=="menor":
-            maior=tentativa-1
-         else:
-            print ("Acertou!")
-            print("O número de tentativas:",tentativas)
-            break
-   
+    resposta = ""
+    while resposta != "acertou":
+        tentativa = (maior + menor) // 2
+        tentativas = tentativas + 1
+        print("O seu número é:", tentativa)
+        resposta = input("O seu número é maior, menor ou acertei?: ")
+        
+        if resposta == "maior":
+            menor = tentativa + 1
+        elif resposta == "menor":
+            maior = tentativa - 1
+    print("O número de tentativas:", tentativas) 
 
-while True:
-   n=input("Que modalidade deseja jogar?(p/c)")
-   if n == "c":
+n=input("Que modalidade deseja jogar?(p/c)")
+if n == "c":
     computador_pensa()
-   else:
+else:
     utilizador_pensa()
-   novamente=input("Deseja jogar novamente?(s/n):")
-   if novamente!="s":
-    print("Obrigada por jogares!Até à próxima!")
-    break
+
+
  
 
