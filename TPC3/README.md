@@ -19,3 +19,8 @@ O programa deve ter duas modalidades:
 - Computador começa: o computador deve seguir uma estratégia que lhe permita ganhar sempre.
 
 - Jogador começa: o computador joga em segundo e pode ganhar se o jogador se afastar da estratégia correta.
+
+## Resultados
+O programa desenvolvido em Python está presente neste ficheiro:
+
+- [TPC3.py](TPC3.py)
