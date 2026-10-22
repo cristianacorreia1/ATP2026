@@ -14,5 +14,5 @@ Desenvolver uma aplicação em Python para a gestão de alunos de uma turma, per
 
 ## Resultados
 Aqui está o código desenvolvido para este TPC:
-
+- [TPC5.py](TPC5.py)
 
